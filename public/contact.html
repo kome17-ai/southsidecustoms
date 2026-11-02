@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact | Southside Customs</title>
+  <meta name="description" content="Email Southside Customs about OG and NOS Chevrolet parts, wheel restoration and hydraulics." />
+  <link rel="icon" href="https://res.cloudinary.com/dtdohzvu/image/upload/v1793649747/IMG-20261030-WA0006_s86ydq.jpg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap bar">
+      <a class="brand" href="/" aria-label="Southside Customs home">
+        <span class="brand-logo"><img src="https://res.cloudinary.com/dtdohzvu/image/upload/v1793649747/IMG-20261030-WA0006_s86ydq.jpg" alt="Southside Customs logo" /></span>
+        <span class="brand-name">Southside Customs<small>OG &amp; NOS Chevrolet parts</small></span>
+      </a>
+      <nav class="nav" id="nav" aria-label="Main">
+        <a href="/#shop">Shop</a>
+        <a href="/#catalog">Catalog</a>
+        <a href="/#services">Services</a>
+        <a href="/#payment">Payment</a>
+        <a href="/#about">About</a>
+        <a href="/contact.html">Contact</a>
+      </nav>
+      <a class="btn btn-gold btn-small nav-cta" href="/contact.html">Email us</a>
+      <button class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="nav">Menu</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="contact-page">
+      <div class="wrap">
+        <h1>Email Southside Customs</h1>
+        <p class="intro">Tell us what you need and we reply by email with availability, your total in USD including shipping, and how to pay.</p>
+        <div class="contact-grid">
+          <form class="form" id="contact-form" novalidate>
+            <div class="row2">
+              <div class="field"><label for="name">Your name</label><input id="name" name="name" required autocomplete="name" /></div>
+              <div class="field"><label for="email">Your email</label><input id="email" name="email" type="email" required autocomplete="email" /></div>
+            </div>
+            <div class="field">
+              <label for="part">Part or service</label>
+              <select id="part" name="part"><option value="">Choose a part or service</option></select>
+            </div>
+            <div class="row2">
+              <div class="field"><label for="car">Your car <span class="hint">(year and model)</span></label><input id="car" name="car" placeholder="1964 Impala SS" /></div>
+              <div class="field"><label for="country">Country <span class="hint">(for shipping)</span></label><input id="country" name="country" autocomplete="country-name" /></div>
+            </div>
+            <div class="field"><label for="message">Message</label><textarea id="message" name="message" required placeholder="Tell us what you are looking for, and add photos links if you have them."></textarea></div>
+            <div class="hp" aria-hidden="true"><label>Leave empty<input name="_honey" tabindex="-1" autocomplete="off" /></label></div>
+            <div class="form-status" id="status" role="status"></div>
+            <button class="btn btn-gold" type="submit" id="send">Send message</button>
+          </form>
+          <aside class="side">
+            <div class="side-card">
+              <h2>Prefer your own email app?</h2>
+              <p>Write to us directly at</p>
+              <p><a href="mailto:southsidecustomsaccessorieshop@gmail.com">southsidecustomsaccessorieshop@gmail.com</a></p>
+            </div>
+            <div class="side-card side-light">
+              <h2>What to include</h2>
+              <ul>
+                <li>The part name, or a link to it</li>
+                <li>Your car's year and model</li>
+                <li>Your country, so we can quote shipping</li>
+                <li>For wheels or hydraulics: photos of what you have</li>
+              </ul>
+            </div>
+            <div class="side-card side-light">
+              <h2>Payment</h2>
+              <p>All prices are in USD. We never ask for payment before confirming availability. <a href="/#payment" style="color:var(--candy)">How payment works</a></p>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>
+</main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <p>&copy; <span id="year">2026</span> Southside Customs. OG &amp; NOS Chevrolet parts.</p>
+      <div class="footer-links">
+        <a href="/#shop">Shop</a>
+        <a href="/#catalog">Catalog</a>
+        <a href="/#payment">Payment</a>
+        <a href="/contact.html">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/js/site.js"></script>
+  <script src="/js/contact.js"></script>
+</body>
+</html>

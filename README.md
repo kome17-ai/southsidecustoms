@@ -1,6 +1,6 @@
 # Southside Customs Website
 
-Premium site for OG & NOS Chevrolet parts, Zenith Dayton wheels, knock-off restorations, customs, and hydraulics.
+Site for OG & NOS Chevrolet parts, Zenith Dayton wheels, knock-off restorations, customs, and hydraulics.
 
 ## Deploy on Render
 
@@ -51,3 +51,16 @@ Notes:
 - All prices are USD. Payment and shipping wording lives in the "Payment & Currency" section of `public/index.html`.
 
 Contact: southsidecustomsaccessorieshop@gmail.com
+
+## Site structure
+
+- `public/index.html`: home, shop grid, catalog, services, payment, about
+- `public/product.html?id=ID`: full description page for one part
+- `public/contact.html`: contact form that sends email to the address above
+- `public/products.json`: all parts. Set `"image"` to a Cloudinary photo URL; until then each part shows a label card.
+- `"layout"` controls how a part appears in the shop grid: `card` (column), `tall` (tall column), `wide` (row) or `banner` (full-width row)
+- Logo and catalog image links are set in `public/index.html` (search for `res.cloudinary.com/dtdohzvu`)
+
+## Contact form
+
+The form sends through FormSubmit. The first message sent after you deploy triggers an activation email to the address above. Open it and confirm once, and all later messages arrive in your inbox.

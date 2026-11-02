@@ -3,173 +3,197 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Southside Customs | OG & NOS Chevrolet Parts</title>
-  <link rel="stylesheet" href="/css/style.css" />
+  <title>Southside Customs | OG & NOS Chevrolet Parts, Wheels, Hydraulics</title>
+  <meta name="description" content="OG and NOS Chevrolet parts for Impala, Chevelle and Chevy II, plus Zenith Dayton and knock-off wheel restoration and custom hydraulics. Prices in USD." />
+  <meta property="og:title" content="Southside Customs" />
+  <meta property="og:description" content="OG and NOS Chevrolet parts, wheel restoration and custom hydraulics." />
+  <meta property="og:image" content="https://res.cloudinary.com/dtdohzvu/image/upload/v1793649747/IMG-20261030-WA0006_s86ydq.jpg" />
+  <link rel="icon" href="https://res.cloudinary.com/dtdohzvu/image/upload/v1793649747/IMG-20261030-WA0006_s86ydq.jpg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/style.css" />
 </head>
 <body>
-  <header class="header">
-    <div class="container header-inner">
-      <div class="logo">
-        <img src="https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg" alt="Southside Customs Logo" id="logo-img" />
-        <span>SOUTHSIDE<br><small>CUSTOMS</small></span>
-      </div>
-      <nav class="nav">
-        <a href="#home">Home</a>
-        <a href="#shop">Shop</a>
-        <a href="#about">About</a>
-        <a href="#services">Services</a>
-        <a href="#payment">Payment</a>
-        <a href="#contact">Contact</a>
+  <header class="site-header">
+    <div class="wrap bar">
+      <a class="brand" href="/" aria-label="Southside Customs home">
+        <span class="brand-logo"><img src="https://res.cloudinary.com/dtdohzvu/image/upload/v1793649747/IMG-20261030-WA0006_s86ydq.jpg" alt="Southside Customs logo" /></span>
+        <span class="brand-name">Southside Customs<small>OG &amp; NOS Chevrolet parts</small></span>
+      </a>
+      <nav class="nav" id="nav" aria-label="Main">
+        <a href="/#shop">Shop</a>
+        <a href="/#catalog">Catalog</a>
+        <a href="/#services">Services</a>
+        <a href="/#payment">Payment</a>
+        <a href="/#about">About</a>
+        <a href="/contact.html">Contact</a>
       </nav>
+      <a class="btn btn-gold btn-small nav-cta" href="/contact.html">Email us</a>
+      <button class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="nav">Menu</button>
     </div>
   </header>
 
-  <section id="home" class="hero">
-    <div class="hero-overlay"></div>
-    <div class="container hero-content">
-      <h1>Automotive Restoration<br><span>Service</span></h1>
-      <p class="tagline">OG & NOS Chevrolet parts and accessories<br>Zenith Dayton wheels • Knock-off restorations • Customs • Hydraulics</p>
-      <a href="#shop" class="btn-gold">Browse Parts</a>
-    </div>
-  </section>
-
-  <section id="shop" class="section shop">
-    <div class="container">
-      <h2 class="section-title">Parts & Accessories</h2>
-      <p class="section-sub">Authentic OG & NOS Chevrolet parts. Tap any item for full details. All prices are in US dollars (USD).</p>
-      <div class="products-grid" id="products-grid">
-        <!-- Products loaded by JS -->
-      </div>
-    </div>
-  </section>
-
-  <section id="about" class="section about">
-    <div class="container">
-      <h2 class="section-title">About Southside Customs</h2>
-      <div class="about-grid">
+  <main>
+    <section class="hero" id="home">
+      <div class="wrap hero-grid">
         <div>
-          <p>We specialize in original and NOS Chevrolet parts, with a focus on Impala, Chevelle, and classic Chevy restoration. From door edge guards to rare lighting and interior pieces, we help builders bring their projects back to factory-correct condition.</p>
-          <p>Based in the spirit of Tijuana custom culture, we also offer professional restoration services for Zenith Dayton wheels, knock-offs, and full custom hydraulics setups.</p>
-        </div>
-        <div class="about-highlight">
-          <h3>What We Offer</h3>
-          <ul>
-            <li>OG & NOS Chevrolet Parts</li>
-            <li>Zenith Dayton Wheel Restoration</li>
-            <li>Knock-Off Restorations</li>
-            <li>Custom Hydraulics</li>
-            <li>Impala, Chevelle & Chevy II Specialists</li>
+          <h1>OG and NOS Chevrolet parts, restored wheels and hydraulics.</h1>
+          <p class="lead">Door guards, lighting, interior pieces and more for Impala, Chevelle and Chevy II builds. Zenith Dayton and knock-off restoration, and custom hydraulics, from Southside Customs.</p>
+          <div class="hero-actions">
+            <a class="btn btn-gold" href="#shop">Shop parts</a>
+            <a class="btn btn-line" href="#catalog">View the catalog</a>
+          </div>
+          <ul class="hero-facts">
+            <li>Prices in USD</li>
+            <li>Availability confirmed by email</li>
+            <li>Shipping quoted per order</li>
           </ul>
         </div>
+        <a class="frame-link" href="#catalog" aria-label="Open the catalog section">
+          <div class="frame">
+            <img src="https://res.cloudinary.com/dtdohzvu/image/upload/v1793649816/IMG-20261031-WA0019_gv2lkg.jpg" alt="Southside Customs parts catalog with prices" />
+            <p class="frame-cap">Our current catalog</p>
+          </div>
+        </a>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <section id="services" class="section services">
-    <div class="container">
-      <h2 class="section-title">Restoration Services</h2>
-      <div class="services-grid">
-        <div class="service-card">
-          <h3>Wheel Restoration</h3>
-          <p>Full Zenith Dayton and knock-off restoration to show quality.</p>
+    <section class="section section-chrome" id="shop">
+      <div class="wrap">
+        <div class="shop-top">
+          <div class="section-head">
+            <h2>Parts and accessories</h2>
+            <p>Select any part for photos, fitment and full details. All prices are in US dollars.</p>
+          </div>
+          <div class="controls">
+            <label class="search"><span class="hp">Search parts</span><input id="search" type="search" placeholder="Search by year, model or part" autocomplete="off" /></label>
+            <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
+          </div>
         </div>
-        <div class="service-card">
-          <h3>Custom Hydraulics</h3>
-          <p>Complete custom hydraulics installation and setup for your classic.</p>
-        </div>
-        <div class="service-card">
-          <h3>Parts Sourcing</h3>
-          <p>Hard-to-find OG & NOS Chevrolet parts for your restoration.</p>
-        </div>
+        <p class="result-count" id="count" aria-live="polite"></p>
+        <div class="grid" id="grid"></div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <section id="payment" class="section payment">
-    <div class="container">
-      <h2 class="section-title">Payment &amp; Currency</h2>
-      <p class="section-sub">Simple and clear, so you know what to expect before you buy.</p>
-      <div class="payment-grid">
-        <div class="service-card">
-          <h3>Currency</h3>
-          <p>All prices on this site are in <strong>US dollars (USD)</strong>. If you pay from another country, your bank or payment provider converts the amount at its own rate.</p>
+    <section class="section section-candy" id="catalog">
+      <div class="wrap catalog-grid">
+        <div>
+          <h2>The Southside catalog</h2>
+          <p>See parts and prices from our current catalog. Tap the page to open it full size and read every line.</p>
+          <p>Prices can change, and many parts are one of a kind. Email us the part you want and we confirm availability and your total.</p>
+          <a class="btn btn-gold" href="/contact.html">Ask about a part</a>
         </div>
-        <div class="service-card">
-          <h3>How to Order</h3>
-          <ol class="steps">
-            <li>Tap a part and press <em>Inquire via Email</em>.</li>
-            <li>We confirm the part is available and send the total with shipping.</li>
-            <li>You pay the invoice by one of the methods below.</li>
-            <li>We pack and ship your order once payment is received.</li>
-          </ol>
-        </div>
-        <div class="service-card">
-          <h3>Accepted Payment</h3>
-          <ul class="plain">
-            <li>PayPal (invoice)</li>
-            <li>Bank / wire transfer</li>
-          </ul>
-          <p class="small">The exact payment details are sent by email with your invoice. Never send payment before we confirm availability.</p>
-        </div>
-        <div class="service-card">
-          <h3>Shipping &amp; Fees</h3>
-          <p>Shipping is not included in the listed price. It is quoted by weight and destination and added to your invoice. Any import duties or taxes in your country are paid by the buyer.</p>
-        </div>
-        <div class="service-card">
-          <h3>Restoration Services</h3>
-          <p>Service prices are <strong>starting prices</strong>. We confirm a final quote by email after seeing photos of your wheels or car. Work begins after the quote is approved.</p>
-        </div>
-        <div class="service-card">
-          <h3>Condition Grades</h3>
-          <ul class="plain small">
-            <li><strong>NOS:</strong> new old stock, never installed</li>
-            <li><strong>Excellent:</strong> used, minimal wear</li>
-            <li><strong>Very Good:</strong> used, light wear</li>
-            <li><strong>Good:</strong> used, normal age wear</li>
-          </ul>
-        </div>
+        <button class="catalog-frame" id="catalog-open" aria-label="Open the catalog full size">
+          <img src="https://res.cloudinary.com/dtdohzvu/image/upload/v1793649816/IMG-20261031-WA0019_gv2lkg.jpg" alt="Southside Customs parts catalog with prices" loading="lazy" />
+        </button>
       </div>
-    </div>
-  </section>
+    </section>
+    <dialog class="lightbox" id="lightbox" aria-label="Catalog full size">
+      <img src="https://res.cloudinary.com/dtdohzvu/image/upload/v1793649816/IMG-20261031-WA0019_gv2lkg.jpg" alt="Southside Customs parts catalog with prices" />
+      <form method="dialog"><button>Close</button></form>
+    </dialog>
 
-  <section id="contact" class="section contact">
-    <div class="container">
-      <h2 class="section-title">Contact Us</h2>
-      <p class="section-sub">Interested in a part? Reach out and we’ll get back to you.</p>
-      <div class="contact-box">
-        <p><strong>Email:</strong> <a href="mailto:southsidecustomsaccessorieshop@gmail.com">southsidecustomsaccessorieshop@gmail.com</a></p>
-        <p>Mention the part name, your car (year and model) and your country. We reply with availability, the total in USD including shipping, and how to pay.</p>
+    <section class="section section-white" id="services">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>Restoration services</h2>
+          <p>Send us your wheels or your car. Prices are starting prices, and we confirm a final quote by email.</p>
+        </div>
+        <div class="service-list" id="services-list"></div>
       </div>
-    </div>
-  </section>
+    </section>
+
+    <section class="section section-chrome" id="payment">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>Payment and currency</h2>
+          <p>What to expect before you buy.</p>
+        </div>
+        <div class="pay-grid">
+          <div class="pay-currency">
+            <div class="big">USD</div>
+            <p>Every price on this site is in US dollars. If you pay from another country, your bank or payment provider converts it at its own rate.</p>
+          </div>
+          <div class="pay-steps">
+            <h3>How to order</h3>
+            <ol class="steps">
+              <li>Open a part and press <strong>Inquire via email</strong>.</li>
+              <li>We confirm it is available and send your total with shipping.</li>
+              <li>You pay the invoice using one of the methods below.</li>
+              <li>We pack and ship once your payment arrives.</li>
+            </ol>
+          </div>
+          <div class="pay-note">
+            <h3>Accepted payment</h3>
+            <ul>
+              <li>PayPal (invoice)</li>
+              <li>Bank or wire transfer</li>
+            </ul>
+            <p>Payment details come by email with your invoice. Do not send money before we confirm availability.</p>
+          </div>
+          <div class="pay-note">
+            <h3>Shipping and fees</h3>
+            <p>Shipping is not in the listed price. We quote it by weight and destination and add it to your invoice. Import duties and taxes in your country are paid by the buyer.</p>
+          </div>
+          <div class="pay-note">
+            <h3>Restoration quotes</h3>
+            <p>Service prices are <strong>starting prices</strong>. We send a final quote after seeing photos of your wheels or car, and work starts once you approve it.</p>
+          </div>
+          <div class="grades">
+            <h3>Condition grades</h3>
+            <dl class="grade-list">
+              <div><dt>NOS</dt><dd>New old stock. Original part, never installed.</dd></div>
+              <div><dt>Excellent</dt><dd>Used with minimal signs of age.</dd></div>
+              <div><dt>Very Good</dt><dd>Used, clean and complete with light wear.</dd></div>
+              <div><dt>Good</dt><dd>Used with normal age-related wear.</dd></div>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-ink" id="about">
+      <div class="wrap about-grid">
+        <div>
+          <h2>About Southside Customs</h2>
+          <p>We specialize in original and NOS Chevrolet parts, with a focus on Impala, Chevelle and classic Chevy restoration. From door edge guards to rare lighting and interior pieces, we help builders bring their projects back to factory-correct condition.</p>
+          <p>Based in the spirit of Tijuana custom culture, we also restore Zenith Dayton wheels and knock-offs and build full custom hydraulics setups.</p>
+        </div>
+        <ul class="offer">
+          <li>OG and NOS Chevrolet parts</li>
+          <li>Zenith Dayton wheel restoration</li>
+          <li>Knock-off restoration</li>
+          <li>Custom hydraulics</li>
+          <li>Impala, Chevelle and Chevy II specialists</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="band">
+      <div class="wrap band-inner">
+        <div>
+          <h2>Can't find the part you need?</h2>
+          <p>We source hard-to-find OG and NOS Chevrolet parts. Email <a class="mail" href="mailto:southsidecustomsaccessorieshop@gmail.com">southsidecustomsaccessorieshop@gmail.com</a> or use the form.</p>
+        </div>
+        <a class="btn btn-dark" href="/contact.html">Send us a message</a>
+      </div>
+    </section>
+  </main>
 
   <footer class="footer">
-    <div class="container">
-      <p>&copy; 2026 Southside Customs. All rights reserved.</p>
-      <p>OG & NOS Chevrolet Parts • Tijuana Style</p>
+    <div class="wrap footer-inner">
+      <p>&copy; <span id="year">2026</span> Southside Customs. OG &amp; NOS Chevrolet parts.</p>
+      <div class="footer-links">
+        <a href="/#shop">Shop</a>
+        <a href="/#catalog">Catalog</a>
+        <a href="/#payment">Payment</a>
+        <a href="/contact.html">Contact</a>
+      </div>
     </div>
   </footer>
 
-  <!-- Product Modal -->
-  <div class="modal" id="product-modal" role="dialog" aria-modal="true" aria-labelledby="modal-name" aria-hidden="true">
-    <div class="modal-content">
-      <button class="close" id="modal-close" aria-label="Close">&times;</button>
-      <img id="modal-img" src="" alt="" />
-      <p class="modal-category" id="modal-category"></p>
-      <h3 id="modal-name"></h3>
-      <p class="modal-price" id="modal-price"></p>
-      <p class="modal-price-note" id="modal-price-note"></p>
-      <p id="modal-desc"></p>
-      <div class="modal-specs" id="modal-specs"></div>
-      <p class="modal-condition" id="modal-condition"></p>
-      <ul class="modal-details" id="modal-details"></ul>
-      <p class="modal-pay">Payment: see <a href="#payment" id="modal-pay-link">Payment &amp; Currency</a>. We confirm availability and the total with shipping by email before you pay.</p>
-      <a id="modal-email" class="btn-gold" href="#">Inquire via Email</a>
-    </div>
-  </div>
-
-  <script src="/js/main.js"></script>
+  <script src="/js/site.js"></script>
+  <script src="/js/home.js"></script>
 </body>
 </html>

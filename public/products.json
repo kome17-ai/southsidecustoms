@@ -4,7 +4,7 @@
     "name": "1958 Impala Sedan Door Edge Guards",
     "price": 85,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Original-style door edge guards for the 1958 Chevrolet Impala sedan. Door edge guards sit on the leading edge of each door and protect the paint from chips and scrapes when doors are opened near walls, posts or other cars. This is a full set of 6, enough to complete a sedan, in NOS / excellent condition. A correct finishing detail for a factory-correct restoration.",
     "category": "Door Guards",
     "condition": "NOS / Excellent",
@@ -15,14 +15,15 @@
       "Complete set for a sedan",
       "Protects door edges from chips and wear",
       "Suited to factory-correct restorations"
-    ]
+    ],
+    "layout": "wide"
   },
   {
     "id": "2",
     "name": "1967 Impala HT Door Edge Guards",
     "price": 95,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Pair of door edge guards for the 1967 Impala Hardtop, all NOS (New Old Stock): original-style parts that were never installed. They protect door edges from chips and restore the correct factory look. Hard to find in unused condition.",
     "category": "Door Guards",
     "condition": "NOS",
@@ -33,14 +34,15 @@
       "New Old Stock, never installed",
       "Restores the original factory look",
       "Rare in unused condition"
-    ]
+    ],
+    "layout": "card"
   },
   {
     "id": "3",
     "name": "1967 Impala Wagon Door Edge Guards",
     "price": 90,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Set of 2 door edge guards for the 1967 Impala Wagon in very good condition. Clean, complete and ready to install. A good option for a driver-quality wagon or a restoration where a correct look matters more than unused NOS parts.",
     "category": "Door Guards",
     "condition": "Very Good",
@@ -51,14 +53,15 @@
       "Very good used condition",
       "Ready to install",
       "Wagon-specific application"
-    ]
+    ],
+    "layout": "card"
   },
   {
     "id": "4",
     "name": "1962/67 Chevy II & Chevelle Door Guards",
     "price": 120,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Set of 6 NOS door edge guards compatible with 1962-67 Chevy II and Chevelle. Because one set covers several model years, it is a practical find for restorers working on either car. Protects door edges and gives the correct factory finish.",
     "category": "Door Guards",
     "condition": "NOS",
@@ -69,14 +72,15 @@
       "New Old Stock",
       "Covers multiple years and two models",
       "Please confirm your body style by email before ordering"
-    ]
+    ],
+    "layout": "wide"
   },
   {
     "id": "5",
     "name": "1961 Impala Wagon Door Gas Guards",
     "price": 75,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Set of 6 door gas guards for the 1961 Impala Wagon, in good condition. Gas guards protect the door and paint area around the fuel filler from spills and wear. Good condition means normal age-related wear; ask us for close-up photos before you buy.",
     "category": "Gas Guards",
     "condition": "Good",
@@ -87,14 +91,15 @@
       "Good used condition (normal age-related wear)",
       "Protects the fuel filler area from spills and wear",
       "Close-up photos available on request"
-    ]
+    ],
+    "layout": "tall"
   },
   {
     "id": "6",
     "name": "1962 Impala Wagon Door Gas Guard",
     "price": 40,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Single door gas guard for the 1962 Impala Wagon, in very good condition. Only one piece is available, so it is a good match for filling a missing spot on an existing set.",
     "category": "Gas Guards",
     "condition": "Very Good",
@@ -105,14 +110,15 @@
       "Very good used condition",
       "One piece only",
       "Useful as a replacement for a missing guard"
-    ]
+    ],
+    "layout": "card"
   },
   {
     "id": "7",
     "name": "1965/66 Impala Wagon Door Guards",
     "price": 110,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Set of 3 NOS door edge guards for the 1965-66 Impala Wagon. Unused original-style parts that protect door edges and keep a restoration looking correct. Please check that 3 pieces covers the doors you need before ordering.",
     "category": "Door Guards",
     "condition": "NOS",
@@ -123,14 +129,15 @@
       "New Old Stock",
       "Covers both model years",
       "Check the quantity against the doors you need"
-    ]
+    ],
+    "layout": "card"
   },
   {
     "id": "8",
     "name": "Impala Backup Lamp Sets",
     "price": 180,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Six sets of original-style Impala backup lamps in excellent condition, sold as a lot at the listed price. Backup lamps are a key lighting piece in any complete restoration. Ask us which Impala years we can confirm for these sets before you order.",
     "category": "Lighting",
     "condition": "Excellent",
@@ -141,14 +148,16 @@
       "Excellent condition",
       "Original-style lamps",
       "Ideal for complete restorations or resale"
-    ]
+    ],
+    "layout": "wide",
+    "plate": "Impala"
   },
   {
     "id": "9",
     "name": "1956 Tail Light Lenses",
     "price": 65,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Pair of tail light lenses for the 1956 Chevrolet, in very good condition. The lenses are clear and bright, with no distracting damage, and are ready to install on a restoration or a driver.",
     "category": "Lighting",
     "condition": "Very Good",
@@ -159,14 +168,15 @@
       "Very good condition",
       "Clear and bright",
       "Ready to install"
-    ]
+    ],
+    "layout": "card"
   },
   {
     "id": "10",
     "name": "1961 Parking Lamps",
     "price": 55,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Pair of parking lamps for the 1961 model, original fitment, in good condition. A correct front-end lighting detail for restorers who want to keep original parts on the car.",
     "category": "Lighting",
     "condition": "Good",
@@ -177,14 +187,15 @@
       "Good used condition",
       "Original fitment",
       "Ask for close-up photos before buying"
-    ]
+    ],
+    "layout": "wide"
   },
   {
     "id": "11",
     "name": "Classic Gas Caps",
     "price": 45,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Pair of original-style gas caps in excellent condition. The caps fit multiple Impala years, so please send us your year and we will confirm fitment before you order.",
     "category": "Accessories",
     "condition": "Excellent",
@@ -195,14 +206,16 @@
       "Excellent condition",
       "Fits more than one model year",
       "Fitment confirmed before shipping"
-    ]
+    ],
+    "layout": "card",
+    "plate": "Impala"
   },
   {
     "id": "12",
     "name": "1958-60 Cigarette Lighters",
     "price": 35,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Pair of cigarette lighters for 1958-60, in good working condition. Original-style interior parts that restore a correct dash and a working lighter.",
     "category": "Interior",
     "condition": "Good",
@@ -213,14 +226,15 @@
       "Good, working condition",
       "Covers 1958 to 1960",
       "Original interior equipment"
-    ]
+    ],
+    "layout": "tall"
   },
   {
     "id": "13",
     "name": "1961-63 Cigarette Lighter",
     "price": 25,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Single original cigarette lighter for 1961-63, in very good condition. A simple way to complete a dash that is missing its lighter.",
     "category": "Interior",
     "condition": "Very Good",
@@ -231,14 +245,15 @@
       "Very good condition",
       "Original part",
       "Covers 1961 to 1963"
-    ]
+    ],
+    "layout": "card"
   },
   {
     "id": "14",
     "name": "1965/66 Parking Brake Signal",
     "price": 30,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "NOS parking brake signal light for 1965-66. A rare interior piece that is difficult to find unused, and an important detail for a factory-correct interior.",
     "category": "Interior",
     "condition": "NOS",
@@ -249,14 +264,15 @@
       "New Old Stock",
       "Rare interior piece",
       "Covers 1965 and 1966"
-    ]
+    ],
+    "layout": "card"
   },
   {
     "id": "15",
     "name": "Handle Shields",
     "price": 50,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Pair of handle shields in excellent condition. They sit behind the door handles and protect the paint from fingernails and scratches.",
     "category": "Accessories",
     "condition": "Excellent",
@@ -267,14 +283,16 @@
       "Excellent condition",
       "Protects paint around the door handles",
       "Fitment confirmed by email"
-    ]
+    ],
+    "layout": "card",
+    "plate": "Handle"
   },
   {
     "id": "16",
     "name": "Tri-Five Wiper Blades",
     "price": 40,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Original-style wiper blades for Tri-Five Chevrolets (1955, 1956 and 1957), in very good condition. A correct detail for restorations of these cars.",
     "category": "Accessories",
     "condition": "Very Good",
@@ -285,14 +303,16 @@
       "Very good condition",
       "Original style",
       "For all three Tri-Five years"
-    ]
+    ],
+    "layout": "wide",
+    "plate": "Tri-Five"
   },
   {
     "id": "17",
     "name": "1961/64 Impala Fender Antenna",
     "price": 70,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Fender antenna for the 1961-64 Impala, in excellent condition, complete and ready to install. A correct period detail for a restoration.",
     "category": "Accessories",
     "condition": "Excellent",
@@ -303,14 +323,15 @@
       "Excellent condition",
       "Complete",
       "Covers 1961 to 1964"
-    ]
+    ],
+    "layout": "card"
   },
   {
     "id": "18",
     "name": "Zenith Dayton Wheel Restoration",
     "price": 450,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Full restoration of Zenith Dayton wheels with knock-off style hubs. Each wheel is taken back to show quality, with correct finish and detail. This is a service, not a part, so you send us your wheels. The listed price is a starting price; the final quote depends on the condition and number of wheels. Email photos of your wheels for an accurate quote.",
     "category": "Services",
     "condition": "Service",
@@ -322,14 +343,16 @@
       "Starting price; final quote after photos or inspection",
       "Show-quality restoration",
       "Custom work available"
-    ]
+    ],
+    "layout": "wide",
+    "plate": "Wheels"
   },
   {
     "id": "19",
     "name": "Knock-Off Restoration Service",
     "price": 320,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Professional restoration of knock-off wheels, bringing them back to show condition. This is a service: you send us your wheels. The listed price is a starting price, and the final quote depends on the condition of the wheels. Email photos for an accurate quote.",
     "category": "Services",
     "condition": "Service",
@@ -341,14 +364,16 @@
       "Starting price; final quote after photos or inspection",
       "Brings wheels back to show condition",
       "Custom finishes on request"
-    ]
+    ],
+    "layout": "wide",
+    "plate": "Knock-offs"
   },
   {
     "id": "20",
     "name": "Custom Hydraulics Setup",
     "price": 800,
     "currency": "USD",
-    "image": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+    "image": "",
     "description": "Full custom hydraulics installation and setup for your classic. The listed price is a starting price; the final quote depends on your car and the setup you want. Email us your car's year and model and what you want to achieve, and we will reply with a quote.",
     "category": "Services",
     "condition": "Service",
@@ -360,6 +385,8 @@
       "Starting price; final quote depends on car and setup",
       "Full installation and setup",
       "Contact us with your plans for a quote"
-    ]
+    ],
+    "layout": "banner",
+    "plate": "Hydraulics"
   }
 ]
