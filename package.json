@@ -1,0 +1,12 @@
+{
+  "name": "southsidecustoms",
+  "version": "1.0.0",
+  "description": "Southside Customs - Automotive Restoration & OG Chevrolet Parts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

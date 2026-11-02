@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Southside Customs | OG & NOS Chevrolet Parts</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <div class="logo">
+        <img src="https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg" alt="Southside Customs Logo" id="logo-img" />
+        <span>SOUTHSIDE<br><small>CUSTOMS</small></span>
+      </div>
+      <nav class="nav">
+        <a href="#home">Home</a>
+        <a href="#shop">Shop</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="hero-overlay"></div>
+    <div class="container hero-content">
+      <h1>Automotive Restoration<br><span>Service</span></h1>
+      <p class="tagline">OG & NOS Chevrolet parts and accessories<br>Zenith Dayton wheels • Knock-off restorations • Customs • Hydraulics</p>
+      <a href="#shop" class="btn-gold">Browse Parts</a>
+    </div>
+  </section>
+
+  <section id="shop" class="section shop">
+    <div class="container">
+      <h2 class="section-title">Parts & Accessories</h2>
+      <p class="section-sub">Authentic OG & NOS Chevrolet parts. Tap any item for full details.</p>
+      <div class="products-grid" id="products-grid">
+        <!-- Products loaded by JS -->
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="section about">
+    <div class="container">
+      <h2 class="section-title">About Southside Customs</h2>
+      <div class="about-grid">
+        <div>
+          <p>We specialize in original and NOS Chevrolet parts, with a focus on Impala, Chevelle, and classic Chevy restoration. From door edge guards to rare lighting and interior pieces, we help builders bring their projects back to factory-correct condition.</p>
+          <p>Based in the spirit of Tijuana custom culture, we also offer professional restoration services for Zenith Dayton wheels, knock-offs, and full custom hydraulics setups.</p>
+        </div>
+        <div class="about-highlight">
+          <h3>What We Offer</h3>
+          <ul>
+            <li>OG & NOS Chevrolet Parts</li>
+            <li>Zenith Dayton Wheel Restoration</li>
+            <li>Knock-Off Restorations</li>
+            <li>Custom Hydraulics</li>
+            <li>Impala, Chevelle & Chevy II Specialists</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="services" class="section services">
+    <div class="container">
+      <h2 class="section-title">Restoration Services</h2>
+      <div class="services-grid">
+        <div class="service-card">
+          <h3>Wheel Restoration</h3>
+          <p>Full Zenith Dayton and knock-off restoration to show quality.</p>
+        </div>
+        <div class="service-card">
+          <h3>Custom Hydraulics</h3>
+          <p>Complete custom hydraulics installation and setup for your classic.</p>
+        </div>
+        <div class="service-card">
+          <h3>Parts Sourcing</h3>
+          <p>Hard-to-find OG & NOS Chevrolet parts for your restoration.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section contact">
+    <div class="container">
+      <h2 class="section-title">Contact Us</h2>
+      <p class="section-sub">Interested in a part? Reach out and we’ll get back to you.</p>
+      <div class="contact-box">
+        <p><strong>Email:</strong> <a href="mailto:southsidecustomsaccessorieshop@gmail.com">southsidecustomsaccessorieshop@gmail.com</a></p>
+        <p>Mention the part name and we’ll confirm availability and shipping.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2026 Southside Customs. All rights reserved.</p>
+      <p>OG & NOS Chevrolet Parts • Tijuana Style</p>
+    </div>
+  </footer>
+
+  <!-- Product Modal -->
+  <div class="modal" id="product-modal">
+    <div class="modal-content">
+      <span class="close" id="modal-close">&times;</span>
+      <img id="modal-img" src="" alt="" />
+      <h3 id="modal-name"></h3>
+      <p class="modal-price" id="modal-price"></p>
+      <p class="modal-category" id="modal-category"></p>
+      <p id="modal-desc"></p>
+      <p class="modal-condition" id="modal-condition"></p>
+      <a id="modal-email" class="btn-gold" href="#">Inquire via Email</a>
+    </div>
+  </div>
+
+  <script src="/js/main.js"></script>
+</body>
+</html>
