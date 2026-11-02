@@ -38,8 +38,16 @@ Render will redeploy automatically and the new images + prices will appear.
   "image": "https://res.cloudinary.com/your-cloud/image/upload/....jpg",
   "description": "Full description shown when tapped",
   "category": "Door Guards",
-  "condition": "NOS"
+  "condition": "NOS",
+  "type": "part",
+  "fits": "1958 Chevrolet Impala sedan",
+  "includes": "Set of 6",
+  "details": ["Short bullet 1", "Short bullet 2"]
 }
 ```
+
+Notes:
+- `type` is `part` or `service`. For services, add `"priceNote": "Starting price"` so the price shows as "From $X".
+- All prices are USD. Payment and shipping wording lives in the "Payment & Currency" section of `public/index.html`.
 
 Contact: southsidecustomsaccessorieshop@gmail.com

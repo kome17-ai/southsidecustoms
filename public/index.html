@@ -20,6 +20,7 @@
         <a href="#shop">Shop</a>
         <a href="#about">About</a>
         <a href="#services">Services</a>
+        <a href="#payment">Payment</a>
         <a href="#contact">Contact</a>
       </nav>
     </div>
@@ -37,7 +38,7 @@
   <section id="shop" class="section shop">
     <div class="container">
       <h2 class="section-title">Parts & Accessories</h2>
-      <p class="section-sub">Authentic OG & NOS Chevrolet parts. Tap any item for full details.</p>
+      <p class="section-sub">Authentic OG & NOS Chevrolet parts. Tap any item for full details. All prices are in US dollars (USD).</p>
       <div class="products-grid" id="products-grid">
         <!-- Products loaded by JS -->
       </div>
@@ -86,13 +87,60 @@
     </div>
   </section>
 
+  <section id="payment" class="section payment">
+    <div class="container">
+      <h2 class="section-title">Payment &amp; Currency</h2>
+      <p class="section-sub">Simple and clear, so you know what to expect before you buy.</p>
+      <div class="payment-grid">
+        <div class="service-card">
+          <h3>Currency</h3>
+          <p>All prices on this site are in <strong>US dollars (USD)</strong>. If you pay from another country, your bank or payment provider converts the amount at its own rate.</p>
+        </div>
+        <div class="service-card">
+          <h3>How to Order</h3>
+          <ol class="steps">
+            <li>Tap a part and press <em>Inquire via Email</em>.</li>
+            <li>We confirm the part is available and send the total with shipping.</li>
+            <li>You pay the invoice by one of the methods below.</li>
+            <li>We pack and ship your order once payment is received.</li>
+          </ol>
+        </div>
+        <div class="service-card">
+          <h3>Accepted Payment</h3>
+          <ul class="plain">
+            <li>PayPal (invoice)</li>
+            <li>Bank / wire transfer</li>
+          </ul>
+          <p class="small">The exact payment details are sent by email with your invoice. Never send payment before we confirm availability.</p>
+        </div>
+        <div class="service-card">
+          <h3>Shipping &amp; Fees</h3>
+          <p>Shipping is not included in the listed price. It is quoted by weight and destination and added to your invoice. Any import duties or taxes in your country are paid by the buyer.</p>
+        </div>
+        <div class="service-card">
+          <h3>Restoration Services</h3>
+          <p>Service prices are <strong>starting prices</strong>. We confirm a final quote by email after seeing photos of your wheels or car. Work begins after the quote is approved.</p>
+        </div>
+        <div class="service-card">
+          <h3>Condition Grades</h3>
+          <ul class="plain small">
+            <li><strong>NOS:</strong> new old stock, never installed</li>
+            <li><strong>Excellent:</strong> used, minimal wear</li>
+            <li><strong>Very Good:</strong> used, light wear</li>
+            <li><strong>Good:</strong> used, normal age wear</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section id="contact" class="section contact">
     <div class="container">
       <h2 class="section-title">Contact Us</h2>
       <p class="section-sub">Interested in a part? Reach out and we’ll get back to you.</p>
       <div class="contact-box">
         <p><strong>Email:</strong> <a href="mailto:southsidecustomsaccessorieshop@gmail.com">southsidecustomsaccessorieshop@gmail.com</a></p>
-        <p>Mention the part name and we’ll confirm availability and shipping.</p>
+        <p>Mention the part name, your car (year and model) and your country. We reply with availability, the total in USD including shipping, and how to pay.</p>
       </div>
     </div>
   </section>
@@ -105,15 +153,19 @@
   </footer>
 
   <!-- Product Modal -->
-  <div class="modal" id="product-modal">
+  <div class="modal" id="product-modal" role="dialog" aria-modal="true" aria-labelledby="modal-name" aria-hidden="true">
     <div class="modal-content">
-      <span class="close" id="modal-close">&times;</span>
+      <button class="close" id="modal-close" aria-label="Close">&times;</button>
       <img id="modal-img" src="" alt="" />
+      <p class="modal-category" id="modal-category"></p>
       <h3 id="modal-name"></h3>
       <p class="modal-price" id="modal-price"></p>
-      <p class="modal-category" id="modal-category"></p>
+      <p class="modal-price-note" id="modal-price-note"></p>
       <p id="modal-desc"></p>
+      <div class="modal-specs" id="modal-specs"></div>
       <p class="modal-condition" id="modal-condition"></p>
+      <ul class="modal-details" id="modal-details"></ul>
+      <p class="modal-pay">Payment: see <a href="#payment" id="modal-pay-link">Payment &amp; Currency</a>. We confirm availability and the total with shipping by email before you pay.</p>
       <a id="modal-email" class="btn-gold" href="#">Inquire via Email</a>
     </div>
   </div>
