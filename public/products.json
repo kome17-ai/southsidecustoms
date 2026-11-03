@@ -1,392 +1,63 @@
 [
   {
-    "id": "1",
-    "name": "1958 Impala Sedan Door Edge Guards",
-    "price": 85,
+    "id": "impala-63-cws63-skirts",
+    "name": "1963 Impala CWS-63 Fender Skirts (NOS)",
+    "price": 650,
     "currency": "USD",
-    "image": "",
-    "description": "Original-style door edge guards for the 1958 Chevrolet Impala sedan. Door edge guards sit on the leading edge of each door and protect the paint from chips and scrapes when doors are opened near walls, posts or other cars. This is a full set of 6, enough to complete a sedan, in NOS / excellent condition. A correct finishing detail for a factory-correct restoration.",
-    "category": "Door Guards",
-    "condition": "NOS / Excellent",
-    "type": "part",
-    "fits": "1958 Chevrolet Impala sedan",
-    "includes": "Set of 6",
-    "details": [
-      "Complete set for a sedan",
-      "Protects door edges from chips and wear",
-      "Suited to factory-correct restorations"
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0122_tjuvtk.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0121_qbxcgj.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0118_lw3ork.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0119_suzlhl.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0120_rika1u.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0119_suzlhl.jpg"
     ],
-    "layout": "wide"
-  },
-  {
-    "id": "2",
-    "name": "1967 Impala HT Door Edge Guards",
-    "price": 95,
-    "currency": "USD",
-    "image": "",
-    "description": "Pair of door edge guards for the 1967 Impala Hardtop, all NOS (New Old Stock): original-style parts that were never installed. They protect door edges from chips and restore the correct factory look. Hard to find in unused condition.",
-    "category": "Door Guards",
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0122_tjuvtk.jpg",
+    "description": "Nicest set of NOS skirts I've come across! 1963 Impala CWS-63 skirts. Excellent original condition.",
+    "category": "Body",
     "condition": "NOS",
     "type": "part",
-    "fits": "1967 Chevrolet Impala Hardtop",
-    "includes": "Pair (2 pieces)",
-    "details": [
-      "New Old Stock, never installed",
-      "Restores the original factory look",
-      "Rare in unused condition"
-    ],
-    "layout": "card"
+    "fits": "1963 Chevrolet Impala",
+    "includes": "Set of fender skirts",
+    "details": ["1963 Impala", "CWS-63", "NOS condition", "Very clean set"]
   },
   {
-    "id": "3",
-    "name": "1967 Impala Wagon Door Edge Guards",
-    "price": 90,
+    "id": "impala-60-62-defogger",
+    "name": "1960-1962 Impala Rear Windshield Defogger (NOS)",
+    "price": 1350,
     "currency": "USD",
-    "image": "",
-    "description": "Set of 2 door edge guards for the 1967 Impala Wagon in very good condition. Clean, complete and ready to install. A good option for a driver-quality wagon or a restoration where a correct look matters more than unused NOS parts.",
-    "category": "Door Guards",
-    "condition": "Very Good",
-    "type": "part",
-    "fits": "1967 Chevrolet Impala Wagon",
-    "includes": "Set of 2",
-    "details": [
-      "Very good used condition",
-      "Ready to install",
-      "Wagon-specific application"
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675701/IMG-20261102-WA0108_lcdnbr.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675701/IMG-20261102-WA0107_qdpjhd.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675701/IMG-20261102-WA0110_rkofya.jpg"
     ],
-    "layout": "card"
-  },
-  {
-    "id": "4",
-    "name": "1962/67 Chevy II & Chevelle Door Guards",
-    "price": 120,
-    "currency": "USD",
-    "image": "",
-    "description": "Set of 6 NOS door edge guards compatible with 1962-67 Chevy II and Chevelle. Because one set covers several model years, it is a practical find for restorers working on either car. Protects door edges and gives the correct factory finish.",
-    "category": "Door Guards",
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675701/IMG-20261102-WA0108_lcdnbr.jpg",
+    "description": "1960-1962 Impala rear windshield defogger. NOS item. $1350 shipped.",
+    "category": "Accessories",
     "condition": "NOS",
     "type": "part",
-    "fits": "1962-1967 Chevy II and Chevelle",
-    "includes": "Set of 6",
-    "details": [
-      "New Old Stock",
-      "Covers multiple years and two models",
-      "Please confirm your body style by email before ordering"
-    ],
-    "layout": "wide"
+    "fits": "1960-1962 Chevrolet Impala",
+    "includes": "Rear windshield defogger",
+    "details": ["1960-1962 Impala", "NOS", "Rear windshield defogger", "$1350 shipped"]
   },
   {
-    "id": "5",
-    "name": "1961 Impala Wagon Door Gas Guards",
-    "price": 75,
+    "id": "elcamino-59-quarter",
+    "name": "1959 Chevy El Camino Driver Side Quarter Panel (NOS)",
+    "price": 2500,
     "currency": "USD",
-    "image": "",
-    "description": "Set of 6 door gas guards for the 1961 Impala Wagon, in good condition. Gas guards protect the door and paint area around the fuel filler from spills and wear. Good condition means normal age-related wear; ask us for close-up photos before you buy.",
-    "category": "Gas Guards",
-    "condition": "Good",
-    "type": "part",
-    "fits": "1961 Chevrolet Impala Wagon",
-    "includes": "Set of 6",
-    "details": [
-      "Good used condition (normal age-related wear)",
-      "Protects the fuel filler area from spills and wear",
-      "Close-up photos available on request"
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675939/IMG-20261102-WA0100_wvhzur.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675938/IMG-20261102-WA0102_c4tr67.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675938/IMG-20261102-WA0103_keni0v.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675938/IMG-20261102-WA0101_erbbwo.jpg"
     ],
-    "layout": "tall"
-  },
-  {
-    "id": "6",
-    "name": "1962 Impala Wagon Door Gas Guard",
-    "price": 40,
-    "currency": "USD",
-    "image": "",
-    "description": "Single door gas guard for the 1962 Impala Wagon, in very good condition. Only one piece is available, so it is a good match for filling a missing spot on an existing set.",
-    "category": "Gas Guards",
-    "condition": "Very Good",
-    "type": "part",
-    "fits": "1962 Chevrolet Impala Wagon",
-    "includes": "Single piece (1)",
-    "details": [
-      "Very good used condition",
-      "One piece only",
-      "Useful as a replacement for a missing guard"
-    ],
-    "layout": "card"
-  },
-  {
-    "id": "7",
-    "name": "1965/66 Impala Wagon Door Guards",
-    "price": 110,
-    "currency": "USD",
-    "image": "",
-    "description": "Set of 3 NOS door edge guards for the 1965-66 Impala Wagon. Unused original-style parts that protect door edges and keep a restoration looking correct. Please check that 3 pieces covers the doors you need before ordering.",
-    "category": "Door Guards",
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675939/IMG-20261102-WA0100_wvhzur.jpg",
+    "description": "1959 Chevy El Camino driver side quarter panel. NOS condition. No dents or rust. Very rare to find in this condition. $2500 OBO. Can assist with shipping.",
+    "category": "Body",
     "condition": "NOS",
     "type": "part",
-    "fits": "1965-1966 Chevrolet Impala Wagon",
-    "includes": "Set of 3",
-    "details": [
-      "New Old Stock",
-      "Covers both model years",
-      "Check the quantity against the doors you need"
-    ],
-    "layout": "card"
-  },
-  {
-    "id": "8",
-    "name": "Impala Backup Lamp Sets",
-    "price": 180,
-    "currency": "USD",
-    "image": "",
-    "description": "Six sets of original-style Impala backup lamps in excellent condition, sold as a lot at the listed price. Backup lamps are a key lighting piece in any complete restoration. Ask us which Impala years we can confirm for these sets before you order.",
-    "category": "Lighting",
-    "condition": "Excellent",
-    "type": "part",
-    "fits": "Chevrolet Impala (confirm your year by email)",
-    "includes": "6 sets",
-    "details": [
-      "Excellent condition",
-      "Original-style lamps",
-      "Ideal for complete restorations or resale"
-    ],
-    "layout": "wide",
-    "plate": "Impala"
-  },
-  {
-    "id": "9",
-    "name": "1956 Tail Light Lenses",
-    "price": 65,
-    "currency": "USD",
-    "image": "",
-    "description": "Pair of tail light lenses for the 1956 Chevrolet, in very good condition. The lenses are clear and bright, with no distracting damage, and are ready to install on a restoration or a driver.",
-    "category": "Lighting",
-    "condition": "Very Good",
-    "type": "part",
-    "fits": "1956 Chevrolet",
-    "includes": "Pair (2 lenses)",
-    "details": [
-      "Very good condition",
-      "Clear and bright",
-      "Ready to install"
-    ],
-    "layout": "card"
-  },
-  {
-    "id": "10",
-    "name": "1961 Parking Lamps",
-    "price": 55,
-    "currency": "USD",
-    "image": "",
-    "description": "Pair of parking lamps for the 1961 model, original fitment, in good condition. A correct front-end lighting detail for restorers who want to keep original parts on the car.",
-    "category": "Lighting",
-    "condition": "Good",
-    "type": "part",
-    "fits": "1961 Chevrolet (Impala)",
-    "includes": "Pair (2 lamps)",
-    "details": [
-      "Good used condition",
-      "Original fitment",
-      "Ask for close-up photos before buying"
-    ],
-    "layout": "wide"
-  },
-  {
-    "id": "11",
-    "name": "Classic Gas Caps",
-    "price": 45,
-    "currency": "USD",
-    "image": "",
-    "description": "Pair of original-style gas caps in excellent condition. The caps fit multiple Impala years, so please send us your year and we will confirm fitment before you order.",
-    "category": "Accessories",
-    "condition": "Excellent",
-    "type": "part",
-    "fits": "Multiple Impala years (confirm year by email)",
-    "includes": "Pair (2 caps)",
-    "details": [
-      "Excellent condition",
-      "Fits more than one model year",
-      "Fitment confirmed before shipping"
-    ],
-    "layout": "card",
-    "plate": "Impala"
-  },
-  {
-    "id": "12",
-    "name": "1958-60 Cigarette Lighters",
-    "price": 35,
-    "currency": "USD",
-    "image": "",
-    "description": "Pair of cigarette lighters for 1958-60, in good working condition. Original-style interior parts that restore a correct dash and a working lighter.",
-    "category": "Interior",
-    "condition": "Good",
-    "type": "part",
-    "fits": "1958-1960 Chevrolet",
-    "includes": "Pair (2 lighters)",
-    "details": [
-      "Good, working condition",
-      "Covers 1958 to 1960",
-      "Original interior equipment"
-    ],
-    "layout": "tall"
-  },
-  {
-    "id": "13",
-    "name": "1961-63 Cigarette Lighter",
-    "price": 25,
-    "currency": "USD",
-    "image": "",
-    "description": "Single original cigarette lighter for 1961-63, in very good condition. A simple way to complete a dash that is missing its lighter.",
-    "category": "Interior",
-    "condition": "Very Good",
-    "type": "part",
-    "fits": "1961-1963 Chevrolet",
-    "includes": "Single piece (1)",
-    "details": [
-      "Very good condition",
-      "Original part",
-      "Covers 1961 to 1963"
-    ],
-    "layout": "card"
-  },
-  {
-    "id": "14",
-    "name": "1965/66 Parking Brake Signal",
-    "price": 30,
-    "currency": "USD",
-    "image": "",
-    "description": "NOS parking brake signal light for 1965-66. A rare interior piece that is difficult to find unused, and an important detail for a factory-correct interior.",
-    "category": "Interior",
-    "condition": "NOS",
-    "type": "part",
-    "fits": "1965-1966 Chevrolet",
-    "includes": "Single piece (1)",
-    "details": [
-      "New Old Stock",
-      "Rare interior piece",
-      "Covers 1965 and 1966"
-    ],
-    "layout": "card"
-  },
-  {
-    "id": "15",
-    "name": "Handle Shields",
-    "price": 50,
-    "currency": "USD",
-    "image": "",
-    "description": "Pair of handle shields in excellent condition. They sit behind the door handles and protect the paint from fingernails and scratches.",
-    "category": "Accessories",
-    "condition": "Excellent",
-    "type": "part",
-    "fits": "Chevrolet classic (confirm your year and model by email)",
-    "includes": "Pair (2 pieces)",
-    "details": [
-      "Excellent condition",
-      "Protects paint around the door handles",
-      "Fitment confirmed by email"
-    ],
-    "layout": "card",
-    "plate": "Handle"
-  },
-  {
-    "id": "16",
-    "name": "Tri-Five Wiper Blades",
-    "price": 40,
-    "currency": "USD",
-    "image": "",
-    "description": "Original-style wiper blades for Tri-Five Chevrolets (1955, 1956 and 1957), in very good condition. A correct detail for restorations of these cars.",
-    "category": "Accessories",
-    "condition": "Very Good",
-    "type": "part",
-    "fits": "1955-1957 Chevrolet (Tri-Five)",
-    "includes": "Quantity as pictured; confirm by email",
-    "details": [
-      "Very good condition",
-      "Original style",
-      "For all three Tri-Five years"
-    ],
-    "layout": "wide",
-    "plate": "Tri-Five"
-  },
-  {
-    "id": "17",
-    "name": "1961/64 Impala Fender Antenna",
-    "price": 70,
-    "currency": "USD",
-    "image": "",
-    "description": "Fender antenna for the 1961-64 Impala, in excellent condition, complete and ready to install. A correct period detail for a restoration.",
-    "category": "Accessories",
-    "condition": "Excellent",
-    "type": "part",
-    "fits": "1961-1964 Chevrolet Impala",
-    "includes": "Single antenna (1)",
-    "details": [
-      "Excellent condition",
-      "Complete",
-      "Covers 1961 to 1964"
-    ],
-    "layout": "card"
-  },
-  {
-    "id": "18",
-    "name": "Zenith Dayton Wheel Restoration",
-    "price": 450,
-    "currency": "USD",
-    "image": "",
-    "description": "Full restoration of Zenith Dayton wheels with knock-off style hubs. Each wheel is taken back to show quality, with correct finish and detail. This is a service, not a part, so you send us your wheels. The listed price is a starting price; the final quote depends on the condition and number of wheels. Email photos of your wheels for an accurate quote.",
-    "category": "Services",
-    "condition": "Service",
-    "type": "service",
-    "priceNote": "Starting price",
-    "fits": "Zenith Dayton knock-off wheels",
-    "includes": "Service: you send your wheels",
-    "details": [
-      "Starting price; final quote after photos or inspection",
-      "Show-quality restoration",
-      "Custom work available"
-    ],
-    "layout": "wide",
-    "plate": "Wheels"
-  },
-  {
-    "id": "19",
-    "name": "Knock-Off Restoration Service",
-    "price": 320,
-    "currency": "USD",
-    "image": "",
-    "description": "Professional restoration of knock-off wheels, bringing them back to show condition. This is a service: you send us your wheels. The listed price is a starting price, and the final quote depends on the condition of the wheels. Email photos for an accurate quote.",
-    "category": "Services",
-    "condition": "Service",
-    "type": "service",
-    "priceNote": "Starting price",
-    "fits": "Knock-off style wheels",
-    "includes": "Service: you send your wheels",
-    "details": [
-      "Starting price; final quote after photos or inspection",
-      "Brings wheels back to show condition",
-      "Custom finishes on request"
-    ],
-    "layout": "wide",
-    "plate": "Knock-offs"
-  },
-  {
-    "id": "20",
-    "name": "Custom Hydraulics Setup",
-    "price": 800,
-    "currency": "USD",
-    "image": "",
-    "description": "Full custom hydraulics installation and setup for your classic. The listed price is a starting price; the final quote depends on your car and the setup you want. Email us your car's year and model and what you want to achieve, and we will reply with a quote.",
-    "category": "Services",
-    "condition": "Service",
-    "type": "service",
-    "priceNote": "Starting price",
-    "fits": "Classic cars (tell us your year and model)",
-    "includes": "Service",
-    "details": [
-      "Starting price; final quote depends on car and setup",
-      "Full installation and setup",
-      "Contact us with your plans for a quote"
-    ],
-    "layout": "banner",
-    "plate": "Hydraulics"
+    "fits": "1959 Chevrolet El Camino",
+    "includes": "Driver side quarter panel",
+    "details": ["1959 El Camino", "Driver side", "NOS – no dents or rust", "Very rare", "$2500 OBO"]
   }
 ]
