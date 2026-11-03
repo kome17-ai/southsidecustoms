@@ -9,8 +9,7 @@
       "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0121_qbxcgj.jpg",
       "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0118_lw3ork.jpg",
       "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0119_suzlhl.jpg",
-      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0120_rika1u.jpg",
-      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0119_suzlhl.jpg"
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0120_rika1u.jpg"
     ],
     "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675348/IMG-20261102-WA0122_tjuvtk.jpg",
     "description": "Nicest set of NOS skirts I've come across! 1963 Impala CWS-63 skirts. Excellent original condition.",
@@ -18,8 +17,7 @@
     "condition": "NOS",
     "type": "part",
     "fits": "1963 Chevrolet Impala",
-    "includes": "Set of fender skirts",
-    "details": ["1963 Impala", "CWS-63", "NOS condition", "Very clean set"]
+    "includes": "Set of fender skirts"
   },
   {
     "id": "impala-60-62-defogger",
@@ -29,16 +27,21 @@
     "images": [
       "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675701/IMG-20261102-WA0108_lcdnbr.jpg",
       "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675701/IMG-20261102-WA0107_qdpjhd.jpg",
-      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675701/IMG-20261102-WA0110_rkofya.jpg"
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675701/IMG-20261102-WA0110_rkofya.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714149/IMG-20261102-WA0111_saay2c.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714148/IMG-20261102-WA0116_xpqr0j.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714148/IMG-20261102-WA0117_p4n0nt.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714147/IMG-20261102-WA0112_kn7rkb.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714147/IMG-20261102-WA0115_t3zrod.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714136/IMG-20261102-WA0114_dcpuzv.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714135/IMG-20261102-WA0113_nrtjcq.jpg"
     ],
     "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675701/IMG-20261102-WA0108_lcdnbr.jpg",
     "description": "1960-1962 Impala rear windshield defogger. NOS item. $1350 shipped.",
     "category": "Accessories",
     "condition": "NOS",
     "type": "part",
-    "fits": "1960-1962 Chevrolet Impala",
-    "includes": "Rear windshield defogger",
-    "details": ["1960-1962 Impala", "NOS", "Rear windshield defogger", "$1350 shipped"]
+    "fits": "1960-1962 Chevrolet Impala"
   },
   {
     "id": "elcamino-59-quarter",
@@ -52,12 +55,206 @@
       "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675938/IMG-20261102-WA0101_erbbwo.jpg"
     ],
     "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793675939/IMG-20261102-WA0100_wvhzur.jpg",
-    "description": "1959 Chevy El Camino driver side quarter panel. NOS condition. No dents or rust. Very rare to find in this condition. $2500 OBO. Can assist with shipping.",
+    "description": "1959 Chevy El Camino driver side quarter panel. NOS condition. No dents or rust. Very rare. $2500 OBO.",
     "category": "Body",
     "condition": "NOS",
     "type": "part",
-    "fits": "1959 Chevrolet El Camino",
-    "includes": "Driver side quarter panel",
-    "details": ["1959 El Camino", "Driver side", "NOS – no dents or rust", "Very rare", "$2500 OBO"]
+    "fits": "1959 Chevrolet El Camino"
+  },
+  {
+    "id": "dayton-gold-knockoffs",
+    "name": "OG Dayton Wire Wheel Knock-offs – Gold",
+    "price": 700,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793712994/IMG-20261102-WA0068_zi5zve.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793712994/IMG-20261102-WA0072_t0cdpn.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793712994/IMG-20261102-WA0070_aaitfj.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793712994/IMG-20261102-WA0071_lod4fo.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793712994/IMG-20261102-WA0069_msvysr.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793712994/IMG-20261102-WA0068_zi5zve.jpg",
+    "description": "Driver quality with light dints and marks. Remachined threads, ready to use. Original Dayton gold knock-offs.",
+    "category": "Wheels",
+    "condition": "Driver Quality",
+    "type": "part",
+    "fits": "Dayton Wire Wheels"
+  },
+  {
+    "id": "impala-59-60-seats",
+    "name": "1959-60 Chevy Impala Front Bench & Rear Hardtop Seats",
+    "price": 2000,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713352/IMG-20261102-WA0080_ibrutq.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713352/IMG-20261102-WA0079_tny0s4.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713352/IMG-20261102-WA0080_ibrutq.jpg",
+    "description": "1959-60 Chevy Impala HT/Convertible front bench seat and rear hardtop seat. Complete front bench trim and tracks. Nice condition, no rust or rot. Set $2000 or $1000 each.",
+    "category": "Interior",
+    "condition": "Nice / No Rust",
+    "type": "part",
+    "fits": "1959-1960 Chevrolet Impala"
+  },
+  {
+    "id": "impala-62-ss-hubcaps",
+    "name": "1962 Chevy Impala SS Hubcaps (Set of 4)",
+    "price": 325,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713543/IMG-20261102-WA0084_jcljmf.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713556/IMG-20261102-WA0082_sb7hm5.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713543/IMG-20261102-WA0084_jcljmf.jpg",
+    "description": "1962 Chevy Impala SS hubcaps. Nice driver condition with very minimal pitting and dings. Set of 4. $325 shipped OBO.",
+    "category": "Wheels",
+    "condition": "Driver / Minimal Wear",
+    "type": "part",
+    "fits": "1962 Chevrolet Impala SS"
+  },
+  {
+    "id": "impala-65-68-conv-covers",
+    "name": "1965-68 Chevy Impala Convertible Door, Quarter & Piston Covers",
+    "price": 800,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713721/IMG-20261102-WA0091_qsfhoy.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713721/IMG-20261102-WA0092_pjl2i1.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713721/IMG-20261102-WA0090_qxcsgq.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713718/IMG-20261102-WA0089_ch7nr3.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713712/IMG-20261102-WA0088_szpk9a.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713721/IMG-20261102-WA0091_qsfhoy.jpg",
+    "description": "1965-68 Chevy Impala Convertible door, quarter and piston covers. Comes with door and rear lower trim. OG white vinyl. Needs reupholstery for show quality. No rust through. $800 shipped OBO.",
+    "category": "Interior",
+    "condition": "Nice / Needs Reupholstery",
+    "type": "part",
+    "fits": "1965-1968 Chevrolet Impala Convertible"
+  },
+  {
+    "id": "belair-57-dinsmore-compass",
+    "name": "OG 1957 Chevrolet Bel Air Dinsmore Compass",
+    "price": 900,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713924/IMG-20261102-WA0095_bcicbr.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713925/IMG-20261102-WA0093_zkuxas.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713921/IMG-20261102-WA0094_j1rgqh.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713920/IMG-20261102-WA0096_opghi2.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713920/IMG-20261102-WA0098_e9tljb.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713920/IMG-20261102-WA0097_hzm119.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713919/IMG-20261102-WA0099_virlqu.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793713924/IMG-20261102-WA0095_bcicbr.jpg",
+    "description": "Original 1957 Chevrolet Bel Air only Dinsmore compass. Made in Flint, Michigan USA. Rare GM accessory.",
+    "category": "Accessories",
+    "condition": "Original",
+    "type": "part",
+    "fits": "1957 Chevrolet Bel Air"
+  },
+  {
+    "id": "impala-67-foxcraft-skirts",
+    "name": "1967 Impala Foxcraft Skirts with NOS Scuff Pads (CWS-67)",
+    "price": 700,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714339/IMG-20261102-WA0124_be3yzy.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714338/IMG-20261102-WA0125_yvpmhd.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714337/IMG-20261102-WA0127_fwqlu0.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714336/IMG-20261102-WA0126_donlmn.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714335/IMG-20261102-WA0128_xhmfgx.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714334/IMG-20261102-WA0129_sqaooj.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714333/IMG-20261102-WA0130_ndshfs.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714339/IMG-20261102-WA0124_be3yzy.jpg",
+    "description": "NOS 1967 Impala Foxcraft skirts with NOS scuff pads. CWS-67.",
+    "category": "Body",
+    "condition": "NOS",
+    "type": "part",
+    "fits": "1967 Chevrolet Impala"
+  },
+  {
+    "id": "impala-59-60-bumper-guards",
+    "name": "1959/1960 Chevrolet Impala Bumper Guards (NOS)",
+    "price": 1000,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714623/IMG-20261102-WA0133_k2ifiw.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714623/IMG-20261102-WA0133_k2ifiw.jpg",
+    "description": "1959/1960 Chevrolet Impala bumper guards. NOS complete with instructions, template and hardware.",
+    "category": "Accessories",
+    "condition": "NOS",
+    "type": "part",
+    "fits": "1959-1960 Chevrolet Impala"
+  },
+  {
+    "id": "zenith-california-ko",
+    "name": "Zenith California Knock-Offs (Chips and Rings)",
+    "price": 600,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714756/IMG-20261102-WA0134_r2oyb2.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714756/IMG-20261102-WA0134_r2oyb2.jpg",
+    "description": "Zenith California KO for sale. Chips and rings. Shipping worldwide.",
+    "category": "Wheels",
+    "condition": "Good",
+    "type": "part",
+    "fits": "Zenith Wire Wheels"
+  },
+  {
+    "id": "zenith-campbell-ko",
+    "name": "OG Zenith Campbell 3-Wing Knock-Offs",
+    "price": 600,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714785/IMG-20261102-WA0135_krbvm5.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793714785/IMG-20261102-WA0135_krbvm5.jpg",
+    "description": "OG Zenith Campbell 3-wing KO for sale with chips. 100% show condition chrome. Shipping worldwide.",
+    "category": "Wheels",
+    "condition": "Show Condition",
+    "type": "part",
+    "fits": "Zenith Wire Wheels"
+  },
+  {
+    "id": "belair-57-58-litter-bag",
+    "name": "1957 Bel Air / 1958 Impala White Litter Container Bag",
+    "price": 450,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715083/IMG-20261102-WA0148_cjtxro.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715082/IMG-20261102-WA0150_buosjs.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715081/IMG-20261102-WA0151_vyacsq.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715081/IMG-20261102-WA0152_yivnfi.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715083/IMG-20261102-WA0148_cjtxro.jpg",
+    "description": "Rare 1957 Bel Air - 1958 Impala white litter container bag accessory. Original GM accessory.",
+    "category": "Accessories",
+    "condition": "Original",
+    "type": "part",
+    "fits": "1957 Bel Air / 1958 Impala"
+  },
+  {
+    "id": "dayton-ceramic-chips",
+    "name": "OG Dayton Ceramic Chips (Set)",
+    "price": 150,
+    "currency": "USD",
+    "images": [
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715262/IMG-20261102-WA0141_pfj0x9.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715260/IMG-20261102-WA0142_lidw1f.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715259/IMG-20261102-WA0144_hmmrvi.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715258/IMG-20261102-WA0143_seufkx.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715256/IMG-20261102-WA0145_vow5yc.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715254/IMG-20261102-WA0147_poelxm.jpg",
+      "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715253/IMG-20261102-WA0146_rfqof5.jpg"
+    ],
+    "image": "https://res.cloudinary.com/dtdohzvu/image/upload/v1793715262/IMG-20261102-WA0141_pfj0x9.jpg",
+    "description": "OG Dayton ceramic chips for sale. $150 a set.",
+    "category": "Wheels",
+    "condition": "Good",
+    "type": "part",
+    "fits": "Dayton Wire Wheels"
   }
 ]
