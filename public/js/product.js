@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', async () => {
-  const { CONFIG, el, money, media, badge, card, loadProducts } = window.SS;
+  const { CONFIG, el, money, badge, card, loadProducts } = window.SS;
   const root = document.getElementById('pd-root');
   const id = new URLSearchParams(location.search).get('id');
 
@@ -35,8 +35,38 @@ document.addEventListener('DOMContentLoaded', async () => {
   const metaDesc = document.querySelector('meta[name="description"]');
   if (metaDesc) metaDesc.content = `${p.name}: ${money(p)}. ${p.description.slice(0, 110)}`;
 
+  function buildGallery(product) {
+    const images = (product.images && product.images.length) ? product.images : (product.image ? [product.image] : []);
+    if (!images.length) return el('div', 'media');
+
+    const wrap = el('div', 'gallery');
+    const main = el('div', 'gallery-main');
+    const mainImg = el('img');
+    mainImg.src = images[0];
+    mainImg.alt = product.name;
+    main.append(mainImg);
+    wrap.append(main);
+
+    if (images.length > 1) {
+      const thumbs = el('div', 'gallery-thumbs');
+      images.forEach((src, i) => {
+        const thumb = el('img', 'thumb' + (i === 0 ? ' active' : ''));
+        thumb.src = src;
+        thumb.alt = `${product.name} ${i + 1}`;
+        thumb.addEventListener('click', () => {
+          mainImg.src = src;
+          thumbs.querySelectorAll('.thumb').forEach(t => t.classList.remove('active'));
+          thumb.classList.add('active');
+        });
+        thumbs.append(thumb);
+      });
+      wrap.append(thumbs);
+    }
+    return wrap;
+  }
+
   const grid = el('div', 'pd-grid');
-  grid.append(media(p));
+  grid.append(buildGallery(p));
 
   const info = el('div');
   info.append(el('p', 'cat', p.category), el('h1', '', p.name), el('div', 'price', money(p)));
@@ -65,12 +95,12 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 
   const subject = `Inquiry: ${p.name}`;
-  const body = `Hi Southside Customs,\n\nI am interested in: ${p.name} (${money(p)}).\n\nMy car (year / model): \nMy country / shipping address: \n\nPlease confirm availability, the total with shipping, and how to pay.\n\nThank you.`;
+  const body = `Hi Southside Customs,\n\nI am interested in: \( {p.name} ( \){money(p)}).\n\nMy car (year / model): \nMy country / shipping address: \n\nPlease confirm availability, the total with shipping, and how to pay.\n\nThank you.`;
   const actions = el('div', 'pd-actions');
   const form = el('a', 'btn btn-gold', 'Inquire via email');
   form.href = `/contact.html?part=${encodeURIComponent(p.id)}`;
   const direct = el('a', 'btn btn-dark', 'Open in my email app');
-  direct.href = `mailto:${CONFIG.email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  direct.href = `mailto:\( {CONFIG.email}?subject= \){encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   actions.append(form, direct);
   info.append(actions);
 
